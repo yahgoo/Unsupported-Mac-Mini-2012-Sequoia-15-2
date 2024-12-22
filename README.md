@@ -1,5 +1,5 @@
-# Unsupported Mac Mini 2012 Ventura 13.0
-* Patched by Opencore Legacy Patcher 0.5.1
+# Unsupported Mac Mini 2012 Sequoia 15.2
+* Patched by Opencore Legacy Patcher 2.0.0
 * HD4000 patched with Post Install Root Patch
 ## Credits:
 * Opencore
