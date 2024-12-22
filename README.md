@@ -5,7 +5,7 @@
 * Opencore
 
 
-![Screenshot]()
+![Screenshot](https://github.com/yahgoo/Unsupported-Mac-Mini-2012-Sequoia-15-2/blob/main/img/Sequoia%20on%20MacMini2012.png)
 
 Install macOS 15 Sequoia 15.2 on Mac mini 2012 with Opencore GUI Patcher (OCLP) v2.2.0
 1. Run OCLP
