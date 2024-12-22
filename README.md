@@ -5,7 +5,7 @@
 * Opencore
 
 
-![Screenshot](https://github.com/yahgoo/Unsupported-Mac-Mini-2012-Ventura-13.0/blob/main/img/About%20Mac%20Mini%20on%20Ventura%20n%20Apple%20Watch%20Ultra.png)
+![Screenshot]()
 
 Install macOS 15 Sequoia 15.2 on Mac mini 2012 with Opencore GUI Patcher (OCLP) v2.2.0
 1. Run OCLP
