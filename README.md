@@ -1,0 +1,1 @@
+# Unsupported-Mac-Mini-2012-Sequoia-15-2
